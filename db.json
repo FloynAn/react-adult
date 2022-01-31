@@ -1,0 +1,52 @@
+{
+    "products": [
+      {
+        "title": "Блестки",
+        "image": "https://shop-cdn1.vigbo.tech/shops/182822/products/20322491/images/2-cc8de1d761b1263e1e8c61e41d363adb.jpg",
+        "price": 1000,
+        "type": "cosmetics",
+        "description": "Потрясающие блестки в форме звездочек сделают любой секс незабываемым",
+        "id": 1
+      },
+      {
+        "title": "Ролевой костюм",
+        "image": "https://images.wbstatic.net/c246x328/new/2600000/2603833-5.jpg",
+        "price": 19000,
+        "type": "accessories",
+        "description": "Эффектное эротическое белье из эластичного сетчатого материала приятного на ощупь",
+        "id": 2
+      },
+      {
+        "title": "Секс путеводитель",
+        "image": "https://cdn1.ozone.ru/s3/multimedia-l/6063469533.jpg",
+        "price": 800,
+        "type": "games",
+        "description": "Уникальный дневник и планировщик ваших приключений в постели",
+        "id": 3
+      },
+      {
+        "title": "Лубрикант",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8lv9dMzrJAuQFzSCyYbAU-jcWpsNYLhqQ&usqp=CAU",
+        "price": 1000,
+        "type": "condoms",
+        "description": "Реалистичная текстура имитирует естественную смазку. 200 мл",
+        "id": 4
+      },
+      {
+        "title": "Лисий хвост",
+        "image": "https://cdn1.ozone.ru/s3/multimedia-m/c1200/6042485602.jpg",
+        "price": 6000,
+        "type": "toys",
+        "description": "Шикарный хвост, который совмещает в себе не только функционал, но и неповторимый дизайн",
+        "id": 5
+      },
+      {
+        "title": "Набор для БДСМ игр",
+        "image": "https://nedlyaskuki.com.ua/upload/iblock/d20/d20de0894140eda000db3578f1c848d3.jpg",
+        "price": 1500,
+        "type": "bdsm",
+        "description": "Настоящий Must Have, который должен быть в арсенале любовных игр",
+        "id": 6
+      }
+    ]
+  }
